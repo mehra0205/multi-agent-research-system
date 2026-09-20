@@ -1,2 +1,2 @@
 # multi-agent-research-system
-AI-powered multi-agent research system built with LangChain, Gemini and Streamlit.
+AI-powered multi-agent research system built with RAG, LangChain, Gemini and Streamlit.
